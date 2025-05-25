@@ -14,6 +14,8 @@
 
 
 
+[TOC]
+
 ---
 
 
@@ -28,7 +30,8 @@
 
 1914年学校在Homewood校区建成一座大型锅炉房（外观特征是一座高高的烟囱），为整个校园提供暖气和蒸汽，其规模之大，不仅足以满足校内供热需求，还曾将过剩的电力蒸汽能源出售给巴尔的摩市。
 
-**来源**：[JHU Engineering Magazine，《Rewind: A Powerful Learning Laboratory》（2019年5月）](https://engineering.jhu.edu/magazine/2019/05/rewind-a-powerful-learning-laboratory)
+**来源**：JHU Engineering Magazine，《Rewind: A Powerful Learning Laboratory》（2019年5月）
+**链接**：https://engineering.jhu.edu/magazine/2019/05/rewind-a-powerful-learning-laboratory
 
 
 
@@ -38,9 +41,11 @@
 
 伴随着集中锅炉房投入运行，一系列地下隧道被修建，用于敷设蒸汽管线、电线、水管等基础设施，将能源从动力站输送至教学楼和宿舍。
 
-**来源**：[JHU Magazine，《Under Homewood》（2000年11月）](https://pages.jh.edu/jhumag/1100web/under.html)
+**来源**：JHU Magazine，《Under Homewood》（2000年11月）
+**链接**：https://pages.jh.edu/jhumag/1100web/under.html
 
-**来源**：[JHU Engineering Magazine，《John Boswell Whitehead: First Spark, Genius》](https://engineering.jhu.edu/magazine/2004/07/john-boswell-whitehead-first-spark-genius)
+**来源**：JHU Engineering Magazine，《John Boswell Whitehead: First Spark, Genius》（2004年7月）
+**链接**：https://engineering.jhu.edu/magazine/2004/07/john-boswell-whitehead-first-spark-genius
 
 
 
@@ -52,13 +57,15 @@
 
 这些早期修建的隧道结构坚固，主要由砖石和混凝土构成拱形通道，以便工作人员能够定期进入其中检修管线。出于安全与维护考虑，热力管道通常包裹有厚厚的隔热材料（早期多为石棉等保温材料），以防止热量散失和人员烫伤。
 
-**来源**：[JHU Magazine，《Under Homewood》（2000年11月）](https://pages.jh.edu/jhumag/1100web/under.html)
+**来源**：JHU Magazine，《Under Homewood》（2000年11月）
+**链接**：https://pages.jh.edu/jhumag/1100web/under.html
 
 
 
 在历史上，这些地下空间也曾被某些科研人员“临时借用”用于存储实验材料。例如，材料科学教授 Bob Pond 曾在其中存放测试样品；而地质学家 Joseph Singewald 则将含硫矿石样本储存在 Latrobe Hall 地下段，最终因高温潮湿环境引发腐蚀反应，造成空气酸化、木盒劣化。
 
-**来源**：[JHU Magazine，《Under Homewood》（2000年11月）](https://pages.jh.edu/jhumag/1100web/under.html)
+**来源**：JHU Magazine，《Under Homewood》（2000年11月）
+**链接**：https://pages.jh.edu/jhumag/1100web/under.html
 
 ---
 
@@ -68,13 +75,15 @@
 
 随着校园在二战后持续扩张，新建建筑不断增加，Homewood校园的能源系统也经历了相应的演进与调整。1940年代后期，工程学院扩建了新的楼宇，例如1948年落成的Whitehead工程楼，以容纳战后激增的工科项目。当时学校在新楼附近新建或扩容了供暖锅炉设施，以满足更大的供热需求——例如Whitehead楼旁连接着校园动力厂，就体现了这一时期校园能源系统的扩展。
 
-**来源**：[JHU Engineering Magazine，《John Boswell Whitehead: First Spark, Genius》（2004年7月）](https://engineering.jhu.edu/magazine/2004/07/john-boswell-whitehead-first-spark-genius)
+**来源**：JHU Engineering Magazine，《John Boswell Whitehead: First Spark, Genius》（2004年7月）
+**链接**：https://engineering.jhu.edu/magazine/2004/07/john-boswell-whitehead-first-spark-genius
 
 
 
 在技术方面，原本以燃煤锅炉为主的供热方式逐步过渡到更清洁高效的燃料（如燃油、天然气），提高了蒸汽供应的可靠性。到了20世纪下半叶，校园还引入了集中制冷系统，在锅炉房增加制冷机组，通过管道向各建筑输送冷冻水用于空调。2000年统计数据显示，Homewood校区每年消耗约2.37亿磅的蒸汽和1300万吨冷冻水，用于全年供暖和制冷——庞大的能源输送依赖着地下管道网络的支撑。
 
-**来源**：[JHU Magazine，《Under Homewood》（2000年11月）](https://pages.jh.edu/jhumag/1100web/under.html)
+**来源**：JHU Magazine，《Under Homewood》（2000年11月）
+**链接**：https://pages.jh.edu/jhumag/1100web/under.html
 
 
 
@@ -84,7 +93,8 @@
 
 可见维护隧道已被视作校园基础设施的一部分，允许授权人员出入，并可用于必要时在楼宇之间短途通行。
 
-**来源**：[Ghost-Six Blog，《JHU Steam Tunnels》（2016年2月）](https://ghost-six.blogspot.com/2016/02/jhu-steam-tunnels.html?m=1)
+**来源**：Ghost-Six Blog，《JHU Steam Tunnels》（2016年2月）
+**链接**：https://ghost-six.blogspot.com/2016/02/jhu-steam-tunnels.html?m=1
 
 
 
@@ -94,13 +104,15 @@
 
 两种隧道系统在校园地下交织：例如维护隧道在Mudd Hall前下坡处通过侧门连接到主蒸汽隧道，在Dunning Hall与Remsen Hall之间也有竖井接口沟通两套系统。
 
-**来源**：[Ghost-Six Blog，《JHU Steam Tunnels》（2016年2月）](https://ghost-six.blogspot.com/2016/02/jhu-steam-tunnels.html?m=1)
+**来源**：Ghost-Six Blog，《JHU Steam Tunnels》（2016年2月）
+**链接**：https://ghost-six.blogspot.com/2016/02/jhu-steam-tunnels.html?m=1
 
 
 
 总体而言，Homewood主校区地下旧有隧道主要服务早期建筑，而战后兴建的教学楼则多采用直接埋设管线供能，不再修建大规模可步行隧道。这种转变意味着新建筑的公用管线通常直接铺设在地下，不再像老隧道那样有人可通行的空间。例如1950年代建造的Shriver Hall和稍后的Olin Hall等，都未接入可步行的蒸汽隧道系统。
 
-**来源**：[JHU Magazine，《Under Homewood》（2000年11月）](https://pages.jh.edu/jhumag/1100web/under.html)
+**来源**：JHU Magazine，《Under Homewood》（2000年11月）
+**链接**：https://pages.jh.edu/jhumag/1100web/under.html
 
 
 
@@ -120,7 +132,8 @@
 
 尽管地下蒸汽隧道的本意在于后勤供能，且校方明文规定禁止非授权人员进入蒸汽隧道，但其幽闭神秘的空间、多年沉淀的历史感，对学生而言却有着难以抗拒的吸引力，在 JHU 学生群体中衍生出一种特殊的“地下文化”：充满危险、禁忌、挑战与浪漫色彩的“蒸汽隧道探险”（steam tunnel spelunking）。围绕这些地下隧道，逐渐在校园中衍生出各种传说和“都市传奇”。有传言称，在物理楼下方的蒸汽隧道里栖息着被实验辐射所变异的巨型兔子，守护着幽暗隧道的深处。
 
-**来源**：[Ivy Scholars，《Johns Hopkins University Guide》](https://www.ivyscholars.com/johns-hopkins-university-guide)
+**来源**：Ivy Scholars，《Johns Hopkins University Guide》
+**链接**：https://www.ivyscholars.com/johns-hopkins-university-guide
 
 
 
@@ -130,7 +143,8 @@
 
 > “知识的摇篮之下埋葬着那些殒落者的白骨” *("Under the cradle of knowledge lies the bones of those that have fallen.")*。
 
-**来源**：[The Johns Hopkins News-Letter，《The Steam Tunnels Behind Our Underground Tradition》（2018年11月）](https://www.jhunewsletter.com/article/2018/11/the-steam-tunnels-behind-our-underground-tradition)
+**来源**：The Johns Hopkins News-Letter，《The Steam Tunnels Behind Our Underground Tradition》（2018年11月）
+**链接**：https://www.jhunewsletter.com/article/2018/11/the-steam-tunnels-behind-our-underground-tradition
 
 
 
@@ -148,7 +162,8 @@
 
 学生之间私下流传入入口位置和路径图，其中最早流传的一份地图绘于1990年代，标注为“circa 1996”，由后人上传至Reddit，虽然内容简略，但作为JHU探险文化的早期见证，具有一定历史地位。
 
-**来源**：[Reddit，《Partial JHU Steam Tunnel Map》（1996年）](https://www.reddit.com/r/jhu/comments/2mx0cd/partial_jhu_steam_tunnel_map_circa_1996/)
+**来源**：Reddit，《Partial JHU Steam Tunnel Map》（1996年）
+**链接**：https://www.reddit.com/r/jhu/comments/2mx0cd/partial_jhu_steam_tunnel_map_circa_1996/
 
 
 
@@ -156,9 +171,11 @@
 
 据 Ghost-Six 博客及多名学生探险者的记录，这些地下通道多为砖砌或混凝土结构，部分区域空间足够让人直立通行，也有较狭窄的段落需要弯腰或爬行。根据校方与校友的公开描述，这些通道主要由设施管理部门维护使用，对外封闭，内部环境受蒸汽影响较大，常年潮湿、闷热，地面偶有积水。目前通道入口大多加装有锁，属于限制区域，仅设施团队可进入。
 
-**来源**：[Ghost-Six Blog，《JHU Steam Tunnels》（2016年2月）](https://ghost-six.blogspot.com/2016/02/jhu-steam-tunnels.html?m=1)
+**来源**：Ghost-Six Blog，《JHU Steam Tunnels》（2016年2月）
+**链接**：https://ghost-six.blogspot.com/2016/02/jhu-steam-tunnels.html?m=1
 
-**来源**：[The Johns Hopkins News-Letter，《The steam tunnels behind our underground tradition》（2018年11月）](https://www.jhunewsletter.com/article/2018/11/the-steam-tunnels-behind-our-underground-tradition)
+**来源**：The Johns Hopkins News-Letter，《The steam tunnels behind our underground tradition》（2018年11月）
+**链接**：https://www.jhunewsletter.com/article/2018/11/the-steam-tunnels-behind-our-underground-tradition
 
 
 
@@ -166,7 +183,8 @@
 
 Reddit等网络论坛也成为学生交流隧道探险心得的平台。在r/JHU版上，不少帖子讨论如何进入隧道、分享其中的见闻。一些已毕业的校友现身说法，向学弟学妹提供经验。有位昵称BiPhi的校友就发布了他当年绘制的隧道详细地图，与学弟GHOST6的地图几乎完全吻合。他打趣道“看到后来者与你用了几乎一模一样的方法绘制地图，真是既惊讶又欣慰”。这位前辈还描述了一些隧道内令他印象深刻的细节：例如在Remsen楼地下有一段须匍匐前进的狭窄爬行空间，其中间“莫名其妙放着一把让人瘆得慌的破椅子”。种种离奇景象在他们笔下栩栩如生，进一步吊起了后来年轻人的好奇心。
 
-**来源**：[Reddit，《JHU Steam Tunnels》（讨论帖，2016年2月）](https://old.reddit.com/r/jhu/comments/460k4v/jhu_steam_tunnels)
+**来源**：Reddit，《JHU Steam Tunnels》（讨论帖，2016年2月）
+**链接**：https://old.reddit.com/r/jhu/comments/460k4v/jhu_steam_tunnels
 
 
 
@@ -174,7 +192,8 @@ Reddit等网络论坛也成为学生交流隧道探险心得的平台。在r/JHU
 
 有趣的是，学生探险者将其作为“神秘空间”进行通灵仪式，试图“联络”霍普金斯本人、考古馆内木乃伊或Ira Remsen教授的灵魂，这些行为虽带有娱乐性成分，却也体现出蒸汽隧道在学生心目中不仅是物理空间，更是一种精神象征与文化仪式。
 
-**来源**：[The Johns Hopkins News-Letter，《The steam tunnels behind our underground tradition》（2018年11月）](https://www.jhunewsletter.com/article/2018/11/the-steam-tunnels-behind-our-underground-tradition)
+**来源**：The Johns Hopkins News-Letter，《The steam tunnels behind our underground tradition》（2018年11月）
+**链接**：https://www.jhunewsletter.com/article/2018/11/the-steam-tunnels-behind-our-underground-tradition
 
 
 
@@ -184,7 +203,8 @@ Reddit等网络论坛也成为学生交流隧道探险心得的平台。在r/JHU
 >
 > ——David Rose, Class of 2009
 
-**来源**：[The Johns Hopkins News-Letter，《The steam tunnels behind our underground tradition》（2018年11月）](https://www.jhunewsletter.com/article/2018/11/the-steam-tunnels-behind-our-underground-tradition)
+**来源**：The Johns Hopkins News-Letter，《The steam tunnels behind our underground tradition》（2018年11月）
+**链接**：https://www.jhunewsletter.com/article/2018/11/the-steam-tunnels-behind-our-underground-tradition
 
 
 
@@ -194,7 +214,8 @@ Reddit等网络论坛也成为学生交流隧道探险心得的平台。在r/JHU
 >
 > ——匿名学生
 
-**来源**：[The Johns Hopkins News-Letter，《The steam tunnels behind our underground tradition》（2018年11月）](https://www.jhunewsletter.com/article/2018/11/the-steam-tunnels-behind-our-underground-tradition)
+**来源**：The Johns Hopkins News-Letter，《The steam tunnels behind our underground tradition》（2018年11月）
+**链接**：https://www.jhunewsletter.com/article/2018/11/the-steam-tunnels-behind-our-underground-tradition
 
 
 
@@ -216,13 +237,15 @@ Reddit等网络论坛也成为学生交流隧道探险心得的平台。在r/JHU
 
 > 这些隧道里有高压蒸汽管，一旦在靠近人员处发生意外泄漏，将造成极其危险的状况 *(These tunnels contain high pressure steam lines that can present extremely dangerous conditions if an unexpected leak occurs close to a person…)*。
 
-**来源**：[The Johns Hopkins News-Letter，《The Steam Tunnels Behind Our Underground Tradition》（2018年11月）](https://www.jhunewsletter.com/article/2018/11/the-steam-tunnels-behind-our-underground-tradition)
+**来源**：The Johns Hopkins News-Letter，《The Steam Tunnels Behind Our Underground Tradition》（2018年11月）
+**链接**：https://www.jhunewsletter.com/article/2018/11/the-steam-tunnels-behind-our-underground-tradition
 
 
 
 确实，蒸汽隧道内部温度很高，主干管道中的蒸汽温度可达数百华氏度，压力巨大。如果有人靠近时管道突然破裂喷出高温蒸汽，极有可能导致严重烫伤甚至危及生命。此外，隧道内空间密闭狭窄，通风不良，可能积聚着灰尘、有害气体或缺氧；一些老旧管道保温层可能含有石棉等有害物质；再加上照明不足、道路湿滑，一旦迷路或受伤，在地下很难第一时间得到救助。
 
-**来源**：[Reddit，《JHU Steam Tunnels》（讨论帖，2016年2月）](https://old.reddit.com/r/jhu/comments/460k4v/jhu_steam_tunnels)
+**来源**：Reddit，《JHU Steam Tunnels》（讨论帖，2016年2月）
+**链接**：https://old.reddit.com/r/jhu/comments/460k4v/jhu_steam_tunnels
 
 
 
@@ -245,7 +268,8 @@ Reddit等网络论坛也成为学生交流隧道探险心得的平台。在r/JHU
 
 台下听众爆发出善意的笑声。校长以玩笑口吻提及了这一学生惯常的“冒险”，实际上承认了蒸汽隧道探险已是校园文化的一部分。这番话从侧面透露出校方对学生探险行为的态度：虽然规章上不允许，但也默认这是学生时代的一种经历和谈资。正如丹尼尔斯随后调侃的，大学四年里真正重要的不是这些“恶作剧”，但这些经历丰富了学生生活的一面。校领导的半开玩笑表态无疑给这一地下传统赋予了某种正当性，让毕业生们倍感共鸣。
 
-**来源**：[JHU Hub，《Commencement 2016: President Daniels' Remarks》（2016年5月18日）](https://hub.jhu.edu/2016/05/18/commencement-2016-daniels)
+**来源**：JHU Hub，《Commencement 2016: President Daniels' Remarks》（2016年5月18日）
+**链接**：https://hub.jhu.edu/2016/05/18/commencement-2016-daniels
 
 
 
@@ -254,7 +278,8 @@ Reddit等网络论坛也成为学生交流隧道探险心得的平台。在r/JHU
 > “What’s in that weird steam tunnel next to the rec center? Please don’t look it up on Reddit. It will only make you more anxious.”
 > 翻译：体育馆旁边那条奇怪的蒸汽隧道里有什么？请别去 Reddit 上查，那只会让你更紧张。
 
-**来源**：[JHU President’s Office，《Convocation for the Class of 2026》（2022年8月28日）](https://president.jhu.edu/speeches/2022/08/28/convocation-for-the-class-of-2026/)
+**来源**：JHU President’s Office，《Convocation for the Class of 2026》（2022年8月28日）
+**链接**：https://president.jhu.edu/speeches/2022/08/28/convocation-for-the-class-of-2026/
 
 ---
 
@@ -268,12 +293,14 @@ Reddit等网络论坛也成为学生交流隧道探险心得的平台。在r/JHU
 
 • 2022年愚人节特刊称，确诊新冠学生将被安置到蒸汽隧道内，并由“专业老鼠”担任保安。
 
-**来源**：[The Johns Hopkins News-Letter，《Quarantine housing to be moved to steam tunnels》（2022年4月1日）](https://www.jhunewsletter.com/article/2022/04/quarantine-housing-to-be-moved-to-steam-tunnels)
+**来源**：The Johns Hopkins News-Letter，《Quarantine housing to be moved to steam tunnels》（2022年4月1日）
+**链接**：https://www.jhunewsletter.com/article/2022/04/quarantine-housing-to-be-moved-to-steam-tunnels
 
 
 
 • 2025年愚人节特刊虚构了一场“蒸汽隧道派对”被校警突袭，21人被捕，4人拘留。文章正文明确注明为虚构新闻，旨在调侃现实执法尺度。
-**来源**：[The Johns Hopkins News-Letter，《Hopkins Police Department busts student rave in steam tunnels》（2025年4月1日）](https://www.jhunewsletter.com/article/2025/04/hopkins-police-department-busts-student-rave-in-steam-tunnels)
+**来源**：The Johns Hopkins News-Letter，《Hopkins Police Department busts student rave in steam tunnels》（2025年4月1日）
+**链接**：https://www.jhunewsletter.com/article/2025/04/hopkins-police-department-busts-student-rave-in-steam-tunnels
 
 
 
