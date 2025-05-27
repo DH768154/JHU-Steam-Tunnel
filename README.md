@@ -1,8 +1,8 @@
 # JHU地下蒸汽隧道：历史，文化与校方态度
 
-**05-23-2025， DH768154**
+**05-23-2025，05-27-2025 修订  |  DH768154**
 
-**05-27-2025 修订**
+****
 
 *本文由ChatGPT协助生成，不代表本人立场。*
 
@@ -241,8 +241,9 @@ Reddit等网络论坛也成为学生交流隧道探险心得的平台。在r/JHU
 **来源**：[The Johns Hopkins News-Letter，《The steam tunnels behind our underground tradition》（2018年11月）](https://www.jhunewsletter.com/article/2018/11/the-steam-tunnels-behind-our-underground-tradition)
 
 <p align="center">
-  <img src="./Photos/IMG_9162.JPG" alt="某些神秘仪式" style="max-height: 55vh; width: auto;">
+  <img src="./Photos/IMG_9162.jpg" alt="某些神秘仪式" style="max-height: 55vh; width: auto;">
 <p align="center"><b>某些神秘仪式</b></p>
+
 
 
 > 关于蒸汽管道的传说，以及禁地这一观念，或许比实际产生的影响更具意义。“如果你进了蒸汽管道，那你就永远不能谈论这件事。
@@ -284,8 +285,9 @@ Reddit等网络论坛也成为学生交流隧道探险心得的平台。在r/JHU
 **来源**：[Reddit，《JHU Steam Tunnels》（讨论帖，2016年2月）](https://old.reddit.com/r/jhu/comments/460k4v/jhu_steam_tunnels)
 
 <p align="center">
-  <img src="./Photos/IMG_9125.JPG" alt="狭窄低矮的隧道空间" style="max-height: 55vh; width: auto;">
+  <img src="./Photos/IMG_9125.jpg" alt="狭窄低矮的隧道空间" style="max-height: 55vh; width: auto;">
 <p align="center"><b>狭窄低矮的隧道空间</b></p>
+
 
 
 所有这些安全隐患都是校方明令禁止学生进入的理由。
